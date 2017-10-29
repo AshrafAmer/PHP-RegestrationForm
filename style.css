@@ -1,0 +1,22 @@
+body{
+	padding: 2rem;
+}
+
+.headline{
+		color: #0062cc;
+		padding-bottom: 2rem;
+		font-size: 28px;
+}
+
+.form-control{
+	width: 75%;
+}
+
+.text-area{
+	height: 10rem;
+	width: 75%;
+}
+
+.register{
+	padding-top: 1rem;
+}
